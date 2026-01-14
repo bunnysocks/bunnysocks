@@ -36,7 +36,7 @@ const educationData: educationItem[] = [
     startDate: "2021",
     endDate: "2022",
     orgName: "Narayana Junior College",
-    title: "Intermediate Education | MPC",
+    title: "Intermediate Education (MPC)",
     location: [
       "Nellore, AP",
     ],
