@@ -1,6 +1,8 @@
 import { Education } from "@/components/Education";
 import { Experience } from "@/components/Experience";
 import { Intro } from "@/components/Intro";
+import Projects from "@/components/Projects";
+import Skills from "@/components/Skills";
 import { Meteors } from "@/components/ui/meteors";
 
 export default function Home() {
@@ -11,6 +13,8 @@ export default function Home() {
         <Intro/>
         <Experience/>
         <Education/>
+        <Skills/>
+        <Projects/>
       </main>
     </div>
   );
