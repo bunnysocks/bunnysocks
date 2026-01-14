@@ -6,7 +6,7 @@ export const Intro = () => {
     return (
         <div className="flex gap-4">
             <div className="flex flex-col gap-4 w-9/12">
-                <h1 className="text-4xl font-bold">Hi! Heman here,</h1>
+                <h1 className="text-4xl font-bold">hey, heman here</h1>
                 <p className="text-base text-gray-600">
                     Aspiring Software Engineer, I like building backends and working on blockchain systems, with a focus on writing internal libraries, by removing unncessary layers of abstraction. But at the end of the day, I build what gets the job done - whether that's backend or CLI's.
                 </p>
